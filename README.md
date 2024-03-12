@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dmondia679
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Sobre Mi
+:tw-1f44b: Bienvenido a mi perfil de GitHub, mi nombre es David Montes Díaz
+y actualmente **soy un estudiante en el Grado Superior de Desarollo de Aplicaciones Web**
 
-<!---
-dmondia679/dmondia679 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://images.vexels.com/media/users/3/166401/isolated/lists/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png)
+Actualmente dentro del módulo estoy aprendiendo Java con el entorno de Eclipse.
+
+![](https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png)
+**También estoy estudiando con bases de datos MySql.**
