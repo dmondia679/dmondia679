@@ -1,5 +1,5 @@
 ## Sobre Mi
-:tw-1f44b: Bienvenido a mi perfil de GitHub, mi nombre es David Montes Díaz
+👋 Bienvenido a mi perfil de GitHub, mi nombre es David Montes Díaz
 y actualmente **soy un estudiante en el Grado Superior de Desarollo de Aplicaciones Web**
 
 
