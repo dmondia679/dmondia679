@@ -11,3 +11,8 @@ Actualmente dentro del módulo estoy aprendiendo Java con el entorno de Eclipse.
 ![](https://cdn.iconscout.com/icon/free/png-256/free-mysql-3628940-3030165.png)
 
 **También estoy estudiando con bases de datos MySql.**
+
+![Spring Boot](https://miro.medium.com/max/1400/1*91WzD9hPtn1N5rP3qMaFtA.png)
+![Angular](https://angular.io/assets/images/logos/angular/angular.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+![Java](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)
